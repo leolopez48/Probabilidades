@@ -1,0 +1,9 @@
+c:\users\leonel\documents\visual studio 2015\Projects\Estadistica\Estadistica\bin\Debug\Estadistica.exe.config
+c:\users\leonel\documents\visual studio 2015\Projects\Estadistica\Estadistica\bin\Debug\Estadistica.exe
+c:\users\leonel\documents\visual studio 2015\Projects\Estadistica\Estadistica\bin\Debug\Estadistica.pdb
+c:\users\leonel\documents\visual studio 2015\Projects\Estadistica\Estadistica\obj\Debug\Estadistica.Properties.Resources.resources
+c:\users\leonel\documents\visual studio 2015\Projects\Estadistica\Estadistica\obj\Debug\Estadistica.csproj.GenerateResource.Cache
+c:\users\leonel\documents\visual studio 2015\Projects\Estadistica\Estadistica\obj\Debug\Estadistica.exe
+c:\users\leonel\documents\visual studio 2015\Projects\Estadistica\Estadistica\obj\Debug\Estadistica.pdb
+c:\users\leonel\documents\visual studio 2015\Projects\Estadistica\Estadistica\obj\Debug\Estadistica.Estadística.resources
+C:\Users\Leonel\documents\visual studio 2015\Projects\Estadistica\Estadistica\obj\Debug\Estadistica.csprojResolveAssemblyReference.cache
